@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fabia\\source\\repos\\KonsolHelloJeff\\KonsolHelloJeff\\KonsolHelloJeff.csproj": {}
+    "C:\\Users\\fabia\\Documents\\GitHub\\Udmy-CSharp-master0-100-in6w\\me-code\\KonsolHelloJeff\\KonsolHelloJeff\\KonsolHelloJeff.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fabia\\source\\repos\\KonsolHelloJeff\\KonsolHelloJeff\\KonsolHelloJeff.csproj": {
+    "C:\\Users\\fabia\\Documents\\GitHub\\Udmy-CSharp-master0-100-in6w\\me-code\\KonsolHelloJeff\\KonsolHelloJeff\\KonsolHelloJeff.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fabia\\source\\repos\\KonsolHelloJeff\\KonsolHelloJeff\\KonsolHelloJeff.csproj",
+        "projectUniqueName": "C:\\Users\\fabia\\Documents\\GitHub\\Udmy-CSharp-master0-100-in6w\\me-code\\KonsolHelloJeff\\KonsolHelloJeff\\KonsolHelloJeff.csproj",
         "projectName": "KonsolHelloJeff",
-        "projectPath": "C:\\Users\\fabia\\source\\repos\\KonsolHelloJeff\\KonsolHelloJeff\\KonsolHelloJeff.csproj",
+        "projectPath": "C:\\Users\\fabia\\Documents\\GitHub\\Udmy-CSharp-master0-100-in6w\\me-code\\KonsolHelloJeff\\KonsolHelloJeff\\KonsolHelloJeff.csproj",
         "packagesPath": "C:\\Users\\fabia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fabia\\source\\repos\\KonsolHelloJeff\\KonsolHelloJeff\\obj\\",
+        "outputPath": "C:\\Users\\fabia\\Documents\\GitHub\\Udmy-CSharp-master0-100-in6w\\me-code\\KonsolHelloJeff\\KonsolHelloJeff\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fabia\\AppData\\Roaming\\NuGet\\NuGet.Config",
