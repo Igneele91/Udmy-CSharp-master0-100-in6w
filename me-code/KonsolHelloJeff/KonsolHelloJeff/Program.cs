@@ -14,10 +14,11 @@ namespace HelloWorld
         {
             // Setzt die Hintergrundfarbe der Konsole
             Console.BackgroundColor = ConsoleColor.DarkGray;
-            // Setzt die Schriftfarbe der Konsole
+            // Setzt die Schriftfarbe der Konsole / Schrift Farben
             Console.ForegroundColor = ConsoleColor.Yellow;
             // Console.WriteLine("Hallo Welt!");
             Console.WriteLine("Hallo Jeff");
+            Console.WriteLine("Hallo C# Code");
             Console.ReadKey();
 
             /*
