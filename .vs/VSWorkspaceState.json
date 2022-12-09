@@ -1,9 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\me-code",
-    "\\me-code\\KonsolHelloJeff"
+    "\\DateTypeF",
+    "\\kurs-code",
+    "\\kurs-code\\DatenTypen",
+    "\\kurs-code\\DatenTypen\\DatenTypen",
+    "\\kurs-code\\HelloWorld",
+    "\\kurs-code\\HelloWorld\\HelloWorld",
+    "\\me-code"
   ],
-  "SelectedNode": "\\me-code\\KonsolHelloJeff\\KonsolHelloJeff.sln",
+  "SelectedNode": "\\kurs-code\\HelloWorld\\HelloWorld\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
