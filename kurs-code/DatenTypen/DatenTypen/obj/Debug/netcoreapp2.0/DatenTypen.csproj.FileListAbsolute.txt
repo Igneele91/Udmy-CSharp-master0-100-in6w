@@ -1,0 +1,11 @@
+C:\Users\Denis Panjuta\source\repos\DatenTypen\DatenTypen\bin\Debug\netcoreapp2.0\DatenTypen.deps.json
+C:\Users\Denis Panjuta\source\repos\DatenTypen\DatenTypen\bin\Debug\netcoreapp2.0\DatenTypen.runtimeconfig.json
+C:\Users\Denis Panjuta\source\repos\DatenTypen\DatenTypen\bin\Debug\netcoreapp2.0\DatenTypen.runtimeconfig.dev.json
+C:\Users\Denis Panjuta\source\repos\DatenTypen\DatenTypen\bin\Debug\netcoreapp2.0\DatenTypen.dll
+C:\Users\Denis Panjuta\source\repos\DatenTypen\DatenTypen\bin\Debug\netcoreapp2.0\DatenTypen.pdb
+C:\Users\Denis Panjuta\source\repos\DatenTypen\DatenTypen\obj\Debug\netcoreapp2.0\DatenTypen.csprojResolveAssemblyReference.cache
+C:\Users\Denis Panjuta\source\repos\DatenTypen\DatenTypen\obj\Debug\netcoreapp2.0\DatenTypen.csproj.CoreCompileInputs.cache
+C:\Users\Denis Panjuta\source\repos\DatenTypen\DatenTypen\obj\Debug\netcoreapp2.0\DatenTypen.AssemblyInfoInputs.cache
+C:\Users\Denis Panjuta\source\repos\DatenTypen\DatenTypen\obj\Debug\netcoreapp2.0\DatenTypen.AssemblyInfo.cs
+C:\Users\Denis Panjuta\source\repos\DatenTypen\DatenTypen\obj\Debug\netcoreapp2.0\DatenTypen.dll
+C:\Users\Denis Panjuta\source\repos\DatenTypen\DatenTypen\obj\Debug\netcoreapp2.0\DatenTypen.pdb

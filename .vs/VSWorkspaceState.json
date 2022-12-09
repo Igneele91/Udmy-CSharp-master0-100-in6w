@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\HelloWorld",
-    "\\HelloWorld\\HelloWorld"
+    "\\me-code",
+    "\\me-code\\KonsolHelloJeff"
   ],
-  "SelectedNode": "\\HelloWorld\\HelloWorld\\Program.cs",
+  "SelectedNode": "\\me-code\\KonsolHelloJeff\\KonsolHelloJeff.sln",
   "PreviewInSolutionExplorer": false
 }
